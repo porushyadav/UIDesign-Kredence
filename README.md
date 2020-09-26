@@ -22,18 +22,7 @@ Getting Started
 * reducer: Contains all reducers .<br/>
 * store: Contains the data.<br/>
 
-# Functionality
-
-* Made a dropdown on Home page.
-* It show data based on selected dropdown
-* Fetching the task from api and can add and delete Task.
-* The data of the user store in localstoreage
-* Also add change password button that render the form for change password.
-* user can change password.
-
-
-
-Getting Started
+# Getting Started
  * Go to folder.
  * Open VS Code editor.
  * Open Project folder in VS Code.
@@ -44,12 +33,6 @@ Getting Started
  * Run command: npm start.
  * Server will run successfully and browse open automatically.
 
-# Project Structure:
-          
-* components: contains all components.<br/>
-* action: Contains all the actions .<br/>
-* reducer: Contains all reducers .<br/>
-* store: Contains the data.<br/>
 
 # Functionality
 
