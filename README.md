@@ -63,7 +63,7 @@ Getting Started
 * The data of the user store in localstoreage
 * Also add change password button that render the form for change password.
 * user can change password.
-# Home Page for Adding Questions 
+# ScreenShot 
 ![](/images/kredence1.JPG)
 ![](/images/kredence4.JPG)
 ![](/images/kredence3.JPG)
