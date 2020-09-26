@@ -1,9 +1,5 @@
 
-# Description
-In this test we want to make user interface for login/signup and after signup show some other pages. And also handle the task functionality like fetching all task from api then add more task and delete task.
 
-Demo
-Video url: 
 # Description
 In this test we want to make user interface for login/signup and after signup show some other pages. And also handle the task functionality like fetching all task from api then add more task and delete task.
 
